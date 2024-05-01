@@ -1,5 +1,5 @@
 <!--### Hi there 👋 -->
-Profile Visits
+
 ![Visitor Count](https://profile-counter.glitch.me/DevG10/count.svg)
 
 <!--
