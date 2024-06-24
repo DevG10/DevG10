@@ -1,6 +1,6 @@
 <!--### Hi there 👋 -->
 
-![Visitor Count](https://profile-counter.glitch.me/DevG10/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/DevG10/count.svg) -->
 
 <!--
 **DevG10/DevG10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
